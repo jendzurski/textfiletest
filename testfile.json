@@ -1,0 +1,23 @@
+{
+    "List of CDs": [
+        {
+            "album_name": "Dark Side of the Moon",
+            "artist_name": "Pink Floyd",
+            "genre": "Rock",
+            "tracks": [
+                "Track 1",
+                "Track 2",
+                "Track 3"
+            ]
+        },
+        {
+            "album_name": "Fire on the Mountain",
+            "artist_name": "Charlie Daniels Band",
+            "genre": "Country",
+            "tracks": [
+                "Long Haired Country Boy",
+                "Trudy"
+            ]
+        }
+    ]
+}
